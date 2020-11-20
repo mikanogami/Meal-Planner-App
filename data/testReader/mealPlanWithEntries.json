@@ -1,0 +1,630 @@
+[
+    {
+        "month": 9,
+        "year": 2020,
+        "days": [
+            {
+                "date": 1,
+                "listOfDishes": []
+            },
+            {
+                "date": 2,
+                "listOfDishes": []
+            },
+            {
+                "date": 3,
+                "listOfDishes": []
+            },
+            {
+                "date": 4,
+                "listOfDishes": []
+            },
+            {
+                "date": 5,
+                "listOfDishes": []
+            },
+            {
+                "date": 6,
+                "listOfDishes": []
+            },
+            {
+                "date": 7,
+                "listOfDishes": []
+            },
+            {
+                "date": 8,
+                "listOfDishes": []
+            },
+            {
+                "date": 9,
+                "listOfDishes": []
+            },
+            {
+                "date": 10,
+                "listOfDishes": []
+            },
+            {
+                "date": 11,
+                "listOfDishes": []
+            },
+            {
+                "date": 12,
+                "listOfDishes": []
+            },
+            {
+                "date": 13,
+                "listOfDishes": []
+            },
+            {
+                "date": 14,
+                "listOfDishes": []
+            },
+            {
+                "date": 15,
+                "listOfDishes": []
+            },
+            {
+                "date": 16,
+                "listOfDishes": []
+            },
+            {
+                "date": 17,
+                "listOfDishes": []
+            },
+            {
+                "date": 18,
+                "listOfDishes": []
+            },
+            {
+                "date": 19,
+                "listOfDishes": []
+            },
+            {
+                "date": 20,
+                "listOfDishes": []
+            },
+            {
+                "date": 21,
+                "listOfDishes": []
+            },
+            {
+                "date": 22,
+                "listOfDishes": []
+            },
+            {
+                "date": 23,
+                "listOfDishes": []
+            },
+            {
+                "date": 24,
+                "listOfDishes": []
+            },
+            {
+                "date": 25,
+                "listOfDishes": []
+            },
+            {
+                "date": 26,
+                "listOfDishes": []
+            },
+            {
+                "date": 27,
+                "listOfDishes": []
+            },
+            {
+                "date": 28,
+                "listOfDishes": []
+            },
+            {
+                "date": 29,
+                "listOfDishes": []
+            },
+            {
+                "date": 30,
+                "listOfDishes": []
+            },
+            {
+                "date": 31,
+                "listOfDishes": []
+            }
+        ]
+    },
+    {
+        "month": 10,
+        "year": 2020,
+        "days": [
+            {
+                "date": 1,
+                "listOfDishes": []
+            },
+            {
+                "date": 2,
+                "listOfDishes": []
+            },
+            {
+                "date": 3,
+                "listOfDishes": []
+            },
+            {
+                "date": 4,
+                "listOfDishes": []
+            },
+            {
+                "date": 5,
+                "listOfDishes": []
+            },
+            {
+                "date": 6,
+                "listOfDishes": []
+            },
+            {
+                "date": 7,
+                "listOfDishes": []
+            },
+            {
+                "date": 8,
+                "listOfDishes": []
+            },
+            {
+                "date": 9,
+                "listOfDishes": [
+                  {
+                    "specialInstructions": [
+                      "Let simmer",
+                      "Fry onions with garlic"
+                    ],
+                    "name": "Chili",
+                    "mealType": "LUNCH",
+                    "rating": 2,
+                    "groceries": [
+                      {
+                        "com": false,
+                        "foodType": "FRUITVEG",
+                        "name": "Corn",
+                        "fav": true
+                      },
+                      {
+                        "com": false,
+                        "foodType": "PACKAGED",
+                        "name": "Kidney beans",
+                        "fav": false
+                      },
+                      {
+                        "com": false,
+                        "foodType": "HERBSPICE",
+                        "name": "Chili powder",
+                        "fav": false
+                      },
+                      {
+                        "com": false,
+                        "foodType": "HERBSPICE",
+                        "name": "Pepper",
+                        "fav": false
+                      }
+                    ]
+                  },
+                  {
+                    "specialInstructions": [],
+                    "name": "Milkshake",
+                    "mealType": "SNACK",
+                    "rating": -1,
+                    "groceries": [
+                      {
+                        "com": false,
+                        "foodType": "FRUITVEG",
+                        "name": "Strawberry",
+                        "fav": false
+                      },
+                      {
+                        "com": false,
+                        "foodType": "FROZEN",
+                        "name": "Ice Cream",
+                        "fav": false
+                      }
+                    ]
+                  }
+                ]
+            },
+            {
+                "date": 10,
+                "listOfDishes": []
+            },
+            {
+                "date": 11,
+                "listOfDishes": []
+            },
+            {
+                "date": 12,
+                "listOfDishes": []
+            },
+            {
+                "date": 13,
+                "listOfDishes": []
+            },
+            {
+                "date": 14,
+                "listOfDishes": []
+            },
+            {
+                "date": 15,
+                "listOfDishes": []
+            },
+            {
+                "date": 16,
+                "listOfDishes": []
+            },
+            {
+                "date": 17,
+                "listOfDishes": []
+            },
+            {
+                "date": 18,
+                "listOfDishes": []
+            },
+            {
+                "date": 19,
+                "listOfDishes": []
+            },
+            {
+                "date": 20,
+                "listOfDishes": []
+            },
+            {
+                "date": 21,
+                "listOfDishes": []
+            },
+            {
+                "date": 22,
+                "listOfDishes": []
+            },
+            {
+                "date": 23,
+                "listOfDishes": []
+            },
+            {
+                "date": 24,
+                "listOfDishes": []
+            },
+            {
+                "date": 25,
+                "listOfDishes": []
+            },
+            {
+                "date": 26,
+                "listOfDishes": []
+            },
+            {
+                "date": 27,
+                "listOfDishes": []
+            },
+            {
+                "date": 28,
+                "listOfDishes": []
+            },
+            {
+                "date": 29,
+                "listOfDishes": []
+            },
+            {
+                "date": 30,
+                "listOfDishes": []
+            }
+        ]
+    },
+    {
+        "month": 11,
+        "year": 2020,
+        "days": [
+            {
+                "date": 1,
+                "listOfDishes": []
+            },
+            {
+                "date": 2,
+                "listOfDishes": []
+            },
+            {
+                "date": 3,
+                "listOfDishes": []
+            },
+            {
+                "date": 4,
+                "listOfDishes": []
+            },
+            {
+                "date": 5,
+                "listOfDishes": []
+            },
+            {
+                "date": 6,
+                "listOfDishes": []
+            },
+            {
+                "date": 7,
+                "listOfDishes": []
+            },
+            {
+                "date": 8,
+                "listOfDishes": []
+            },
+            {
+                "date": 9,
+                "listOfDishes": []
+            },
+            {
+                "date": 10,
+                "listOfDishes": []
+            },
+            {
+                "date": 11,
+                "listOfDishes": []
+            },
+            {
+                "date": 12,
+                "listOfDishes": []
+            },
+            {
+                "date": 13,
+                "listOfDishes": []
+            },
+            {
+                "date": 14,
+                "listOfDishes": []
+            },
+            {
+                "date": 15,
+                "listOfDishes": []
+            },
+            {
+                "date": 16,
+                "listOfDishes": []
+            },
+            {
+                "date": 17,
+                "listOfDishes": []
+            },
+            {
+                "date": 18,
+                "listOfDishes": []
+            },
+            {
+                "date": 19,
+                "listOfDishes": []
+            },
+            {
+                "date": 20,
+                "listOfDishes": []
+            },
+            {
+                "date": 21,
+                "listOfDishes": []
+            },
+            {
+                "date": 22,
+                "listOfDishes": []
+            },
+            {
+                "date": 23,
+                "listOfDishes": []
+            },
+            {
+                "date": 24,
+                "listOfDishes": []
+            },
+            {
+                "date": 25,
+                "listOfDishes": []
+            },
+            {
+                "date": 26,
+                "listOfDishes": []
+            },
+            {
+                "date": 27,
+                "listOfDishes": []
+            },
+            {
+                "date": 28,
+                "listOfDishes": []
+            },
+            {
+                "date": 29,
+                "listOfDishes": []
+            },
+            {
+                "date": 30,
+                "listOfDishes": []
+            },
+            {
+                "date": 31,
+                "listOfDishes": []
+            }
+        ]
+    },
+    {
+        "month": 0,
+        "year": 2021,
+        "days": [
+            {
+                "date": 1,
+                "listOfDishes": []
+            },
+            {
+                "date": 2,
+                "listOfDishes": []
+            },
+            {
+                "date": 3,
+                "listOfDishes": []
+            },
+            {
+                "date": 4,
+                "listOfDishes": []
+            },
+            {
+                "date": 5,
+                "listOfDishes": []
+            },
+            {
+                "date": 6,
+                "listOfDishes": []
+            },
+            {
+                "date": 7,
+                "listOfDishes": []
+            },
+            {
+                "date": 8,
+                "listOfDishes": []
+            },
+            {
+                "date": 9,
+                "listOfDishes": []
+            },
+            {
+                "date": 10,
+                "listOfDishes": []
+            },
+            {
+                "date": 11,
+                "listOfDishes": []
+            },
+            {
+                "date": 12,
+                "listOfDishes": []
+            },
+            {
+                "date": 13,
+                "listOfDishes": []
+            },
+            {
+                "date": 14,
+                "listOfDishes": []
+            },
+            {
+                "date": 15,
+                "listOfDishes": []
+            },
+            {
+                "date": 16,
+                "listOfDishes": []
+            },
+            {
+                "date": 17,
+                "listOfDishes": []
+            },
+            {
+                "date": 18,
+                "listOfDishes": []
+            },
+            {
+                "date": 19,
+                "listOfDishes": []
+            },
+            {
+                "date": 20,
+                "listOfDishes": []
+            },
+            {
+                "date": 21,
+                "listOfDishes": []
+            },
+            {
+                "date": 22,
+                "listOfDishes": []
+            },
+            {
+                "date": 23,
+                "listOfDishes": []
+            },
+            {
+                "date": 24,
+                "listOfDishes": []
+            },
+            {
+                "date": 25,
+                "listOfDishes": []
+            },
+            {
+                "date": 26,
+                "listOfDishes": []
+            },
+            {
+                "date": 27,
+                "listOfDishes": []
+            },
+            {
+                "date": 28,
+                "listOfDishes": []
+            },
+            {
+                "date": 29,
+                "listOfDishes": []
+            },
+            {
+                "date": 30,
+                "listOfDishes": []
+            },
+            {
+                "date": 31,
+                "listOfDishes": [
+                  {
+                    "specialInstructions": [
+                      "Salt the water",
+                      "Caramelize onions"
+                    ],
+                    "name": "Pasta",
+                    "mealType": "DINNER",
+                    "rating": 4,
+                    "groceries": [
+                      {
+                        "com": false,
+                        "foodType": "FRUITVEG",
+                        "name": "Tomato",
+                        "fav": true
+                      },
+                      {
+                        "com": false,
+                        "foodType": "GRAIN",
+                        "name": "Penne Pasta",
+                        "fav": false
+                      },
+                      {
+                        "com": false,
+                        "foodType": "HERBSPICE",
+                        "name": "Garlic",
+                        "fav": false
+                      },
+                      {
+                        "com": false,
+                        "foodType": "HERBSPICE",
+                        "name": "Oregano",
+                        "fav": false
+                      }
+                    ]
+                  },
+                  {
+                    "specialInstructions": [],
+                    "name": "Smoothie",
+                    "mealType": "BREAKFAST",
+                    "rating": -1,
+                    "groceries": [
+                      {
+                        "com": false,
+                        "foodType": "FRUITVEG",
+                        "name": "Banana",
+                        "fav": false
+                      },
+                      {
+                        "com": false,
+                        "foodType": "PACKAGED",
+                        "name": "Yogurt",
+                        "fav": false
+                      }
+                    ]
+                  }
+                ]
+            }
+        ]
+    }
+]
